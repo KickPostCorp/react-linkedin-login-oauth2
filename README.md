@@ -1,5 +1,15 @@
 # React Linked In Login Using OAuth 2.0
 
+
+FOR KICKPOST CODERS:
+
+npm install --save github:KickPostCorp/react-linkedin-login-oauth2
+
+When this project was forked, it lacked the /lib folder. This was recreated and added back to this repo. The /lib folder was recreated by running the package.json script ("build": "nwb build-react-component"). This requires NWB be installed. https://github.com/insin/nwb
+In addition, the .gitignore was updated to prevent allow all the dev files to be installed. The install command above is now sufficient to run the application normally with "yarn start"
+
+
+
 [![npm package][npm-badge]][npm]
 
 
