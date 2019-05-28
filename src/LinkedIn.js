@@ -70,7 +70,7 @@ export class LinkedIn extends Component {
 LinkedIn.defaultProps = {
   className: 'btn-linkedin',
   disabled: false,
-  children: (<img src={require('../assets/linkedin.png')} alt="Log in with Linked In" style={{ maxWidth: '180px' }} />),
+  children: (<img src={require('../assets/linkedin.png')} alt="Log in with Linked In" style={{ maxWidth: '250px' }} />),
   state: 'fdsf78fyds7fm',
 };
 export default LinkedIn;
