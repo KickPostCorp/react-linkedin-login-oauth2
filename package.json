@@ -7,7 +7,9 @@
   "files": [
     "css",
     "es",
-    "lib",
+    "lib",   
+    "demo",    
+    "src",
     "umd",
     "assets"
   ],
