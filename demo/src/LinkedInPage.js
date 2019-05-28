@@ -34,7 +34,7 @@ class LinkedInPage extends Component {
           onFailure={this.handleFailure}
           onSuccess={this.handleSuccess}
         >
-          <img src={require('./assets/linkedin.png')} alt="Log in with Linked In" style={{ maxWidth: '180px' }} />
+          <img src={require('./assets/linkedin.png')} alt="Log in with Linked In" style={{ maxWidth: '250px' }} />
         </LinkedIn>
         {!code && <div>No code</div>}
         {code && <div>Code: {code}</div>}
